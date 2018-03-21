@@ -1,0 +1,7 @@
+	DATA DICTIONARY
+measurements: List of all variables that show the measurements on the 
+mean and standard deviation.
+
+WALKING to LAYING: List of all activities.
+
+1 to 30: List of all subjects.
